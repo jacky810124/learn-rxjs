@@ -10,6 +10,10 @@ SOME_DESCRIPTION_HERE
 
 * CHANGELOG_ITEM
 
+# Commits
+
+* COMMIT_ITEM
+
 ## ESLint
 
 ```
